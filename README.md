@@ -64,13 +64,15 @@ This project requires a standard LAMP/WAMP/MAMP stack environment.
 (Please replace the following lines with actual images of your project)
 
 1. Authentication Page (Login/Register):
-
-
+![alt text](image.png)
+![alt text](image-1.png)
 2. Dashboard (index.php):
 
-
+![alt text](image-2.png)
 3. Simple Question Responder (whats_on_your_mind.php):
 
+![alt text](image-3.png)
+![alt text](image-4.png)
 🧑‍💻 Developer Information
 
 
