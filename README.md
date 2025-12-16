@@ -29,7 +29,7 @@ This project requires a standard LAMP/WAMP/MAMP stack environment.
 
 ### Prerequisites
 
-1.  Web Server: XAMPP, WAMP, or MAMP.
+1.  Web Server: XAMPP
 2. PHP Version: PHP 7.4 or higher.
 3.  Database: MySQL.
 
